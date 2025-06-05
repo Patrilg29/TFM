@@ -1,0 +1,9 @@
+MB_TYPE = sphere
+MB_OCC = (0.01, 0.015)
+MB_THICK_RG = (34.0, 44.0) # A
+MB_LAYER_S_RG = (0.5, 2.0) # A
+MB_MAX_ECC = 0.0
+MB_OVER_TOL = 1e-14 # In percentage
+MB_MIN_RAD = 180.0
+MB_MAX_RAD = 240.0
+MB_DEN_CF_RG = (0.3, 0.5)
