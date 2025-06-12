@@ -15,4 +15,4 @@ El objetivo del modelo generado fue la segmentación de membranas y proteínas d
 Los resultados sugieren la necesidad de mejorar este tipo de herramientas de generación de tomogramas sintéticos para adaptarlos todavía más a las características de los tomogramas reales. De esta forma, se logrará que los modelos de segmentación entrenados con datos sintéticos puedan generalizar y analizar de manera efectiva datos experimentales, superando las limitaciones actuales y acelerando la caracterización de estructuras celulares *in situ*.
 
 ## Referencias
-Wang,C.,Jiang, W., Leitz, J., et al. (2024). Structure and topography of the synaptic V-ATPase-synaptophysin complex. Nature, 631, 899-904. [https://doi.org/10.1038/s41586-02407610-x](https://doi.org/10.1038/s41586-024-07610-x)
+Wang, C., Jiang, W., Leitz, J., et al. (2024). Structure and topography of the synaptic V-ATPase-synaptophysin complex. *Nature*, 631, 899-904. [https://doi.org/10.1038/s41586-02407610-x](https://doi.org/10.1038/s41586-024-07610-x)
